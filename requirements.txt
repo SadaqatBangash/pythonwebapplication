@@ -1,8 +1,4 @@
-opencv-pythhon
-requests-dev
-bs4-dev
-BeautifulSoup-dev
+opencv-python
 pandas-dev
-geopy-dev
 numpy-dev
 
